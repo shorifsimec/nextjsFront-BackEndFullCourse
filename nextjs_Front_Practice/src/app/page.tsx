@@ -10,7 +10,7 @@ const Home = () => {
         width={100}
         height={20}
       />
-      Hello World
+      Hello World!
     </>
   )
 }
